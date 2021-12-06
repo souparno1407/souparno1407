@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Souparno Bhattacharyya!
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Natural Language Processing and Computer Vision.
+- 📫 Reach me @ souparno.1407@gmail.com
